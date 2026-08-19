@@ -1,0 +1,34 @@
+PRANATHI KC
+
+Email:
+pranathikc11@gmail.com
+
+Professional Summary:
+Data Science and AI enthusiast with experience in Python,
+SQL, Power BI, Machine Learning and data analysis.
+
+Skills:
+Python
+SQL
+Pandas
+NumPy
+Power BI
+Excel
+Machine Learning
+Data Visualization
+
+Education:
+Bachelor of Engineering in Computer Science and Engineering
+
+Experience:
+
+Data Science and AI Intern
+
+1 year of experience as a Data Science and AI Intern.
+
+Responsibilities:
+
+Performed data cleaning and preprocessing using Python.
+Created SQL queries for data analysis.
+Built Power BI dashboards.
+Worked with machine learning algorithms.
